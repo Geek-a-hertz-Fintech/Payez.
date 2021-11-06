@@ -45,17 +45,19 @@ a {
     text-decoration: none;
 }
 
+.nav-btn:hover {
+    background-color: #3f27dd;
+    color: #e6e9ee;
+    text-decoration: none;
+}
+
 .nav-btn a:hover {
     background-color: #3f27dd;
     color: #e6e9ee;
     text-decoration: none;
 }
 
-.nav-btn:hover {
-    background-color: #3f27dd;
-    color: #e6e9ee;
-    text-decoration: none;
-}
+
 
 .nav-item {
     margin-left: 5rem;
